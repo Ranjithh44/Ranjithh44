@@ -18,7 +18,7 @@ Hi, I’m Ranjith 👋  <br>Software Engineer | Backend & Full Stack<br><br>I bu
 ---
 [![](https://visitcount.itsvg.in/api?id=Ranjithh44&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->##
 
 <!--
 **Ranjithh44/Ranjithh44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
